@@ -10,6 +10,6 @@ public class HolaMundo {
 		 * Comentario línea 3
 		 * 
 		 */
-		
+		System.out.println("Hola Mundo");
 	}
 }
