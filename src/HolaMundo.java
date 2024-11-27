@@ -3,7 +3,7 @@ public class HolaMundo {
 	public static void main (String[] args) {
 		//Comentario de línea
 		
-		System.out.println("Hola Mundo5");
+		System.out.println("Hola Mundo6");
 		/*
 		 * Comentario línea 1
 		 * Comentario línea 2
