@@ -1,0 +1,30 @@
+Ejercicio 1: Calcular el área de un rectángulo
+Crea un programa que:
+    1. Pida al usuario la base y la altura de un rectángulo.
+    2. Calcule el área del rectángulo usando la fórmula área = base * altura.
+    3. Muestre el resultado en pantalla.
+
+Ejercicio 2: Comparar dos números
+Escribe un programa que:
+    1. Solicite al usuario dos números enteros.
+    2. Compare si el primer número es mayor, menor o igual al segundo.
+    3. Muestre un mensaje indicando el resultado de la comparación.
+
+Ejercicio 3: Calculadora básica
+Crea un programa que:
+    1. Pida al usuario dos números.
+    2. Solicite la operación a realizar (+, -, *, /).
+    3. Realice la operación correspondiente y muestre el resultado.
+
+Ejercicio 4: Verificar si un número es par o impar
+Haz un programa que:
+    1. Pida al usuario un número entero.
+    2. Determine si el número es par o impar utilizando el operador módulo (%).
+    3. Muestre el resultado.
+
+Ejercicio 5: Conversión de grados Celsius a Fahrenheit
+Escribe un programa que:
+    1. Pida al usuario una temperatura en grados Celsius.
+    2. Convierta la temperatura a Fahrenheit utilizando la fórmula:
+F=C×9/5+32 
+    3. Muestre el resultado en pantalla.
