@@ -1,7 +1,5 @@
 package es.cursojava.inicio.bucles;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 public class BucleFor {
 
 	public static void main(String[] args) {
@@ -18,6 +16,7 @@ public class BucleFor {
 		}
 		
 		//Instrucción continue
+		
 		for (int i =0 ; i<10 ; i++) {
 			//System.out.println("Entra "+ i);
 			if (i%2!=0) {
