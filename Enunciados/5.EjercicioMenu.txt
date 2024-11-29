@@ -16,7 +16,7 @@ Si el usuario selecciona la opción 1
 	+ Vamos a preguntar por el tamaño del cuadrado:
 		Ejemplo: 5
 		* * * * *
-		* * * * *
+		*  		*
 		*       *
 		*       *
 		* * * * *
