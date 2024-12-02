@@ -22,7 +22,7 @@ Si el usuario selecciona la opción 1
 		* * * * *
 		
 Si el usuario selecciona la opción 2
-	+ Vamos a preguntar por un email:
+	+ Vamos a preguntar por un email: "asdfad@asd.ase.s"
 		-Debe tener solo una @
 		-No puede tener espacios en blanco
 		-Después de la @ tiene que haber al menos un punto
