@@ -1,0 +1,15 @@
+Ejercicio 1
+=======================================
+Pedir numero de alumnos
+Crear array de String con el número de alumnos indicado
+Pedir para cada alumno su nombre y guardarlo en el array
+Mostrar el nombre de todos los alumnos
+Mostrar el nombre de todos los alumnos que empiecen por A
+
+Ejercicio 2
+=======================================
+Meter los valores 4,8,15,16,23,42 en un array
+mostrar todos los números
+mostrar la media de los valores
+el número mayor
+el número menor
