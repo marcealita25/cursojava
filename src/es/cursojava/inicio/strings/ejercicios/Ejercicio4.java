@@ -3,7 +3,7 @@ package es.cursojava.inicio.strings.ejercicios;
 public class Ejercicio4 {
 
 	public static void main(String[] args) {
-		String cadenaTexto = "En";
+		String cadenaTexto = "En un lugar de la Mancha de cuyo nombre no puedo acordarme";
 		boolean continua = cadenaTexto.contains(" ");
 		String palabraLarga = "";
 		
