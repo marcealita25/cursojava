@@ -7,6 +7,10 @@ public class EjemplosArrays {
 	public static void main(String[] args) {
 		
 		int [] numeros = new int[6];
+		String [] palabras = new String [3];
+		for ( String palabra :   palabras  ) {
+			System.out.println(palabra);
+		}
 		
 		System.out.println(numeros[1]);
 		numeros[1]=8;
